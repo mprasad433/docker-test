@@ -1,0 +1,9 @@
+C:\Users\rmakired\source\repos\WinRestApi\DotNet5API\obj\Release\net5.0\PubTmp\Out\cpplib.dll
+C:\Users\rmakired\source\repos\WinRestApi\DotNet5API\obj\Release\net5.0\PubTmp\Out\cppwrapper.dll
+C:\Users\rmakired\source\repos\WinRestApi\DotNet5API\obj\Release\net5.0\PubTmp\Out\DotNet5API.exe
+C:\Users\rmakired\source\repos\WinRestApi\DotNet5API\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+C:\Users\rmakired\source\repos\WinRestApi\DotNet5API\obj\Release\net5.0\PubTmp\Out\appsettings.json
+C:\Users\rmakired\source\repos\WinRestApi\DotNet5API\obj\Release\net5.0\PubTmp\Out\DotNet5API.dll
+C:\Users\rmakired\source\repos\WinRestApi\DotNet5API\obj\Release\net5.0\PubTmp\Out\DotNet5API.deps.json
+C:\Users\rmakired\source\repos\WinRestApi\DotNet5API\obj\Release\net5.0\PubTmp\Out\DotNet5API.runtimeconfig.json
+C:\Users\rmakired\source\repos\WinRestApi\DotNet5API\obj\Release\net5.0\PubTmp\Out\DotNet5API.pdb
